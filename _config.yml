@@ -1,1 +1,7 @@
+title: My Site
+description: Turning coffee into accepted submissions.
+
 remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-remote-theme
