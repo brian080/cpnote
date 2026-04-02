@@ -1,12 +1,1 @@
-# 1. 網址設定 (這部分最容易出錯)
-url: "https://brian080.github.io/cpnote/" # 改成你的網址
-baseurl: ""                            # 如果你的 Repository 名字就叫 <帳號>.github.io，這裡請留空 ""
-
-# 2. 網站基本資訊
-title: "My website"                   # 例如：My Algorithm Notes
-email: "brian0989560092@gmail.com"
-description: >-                        # 這裡寫一段簡介
-  Turning coffee into accepted submissions.
-
-# 3. 主題特定設定 (依 Serial Programmer 主題而定)
-remote_theme: sharadcodes/jekyll-theme-serial-programmer
+remote_theme: "mmistakes/minimal-mistakes"
