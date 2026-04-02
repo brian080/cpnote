@@ -1,14 +1,1 @@
-title: My Site
-description: Turning coffee into accepted submissions.
-
-remote_theme: "mmistakes/minimal-mistakes"
-
-minimal_mistakes_skin: "default"
-
-locale: "zh-TW"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
