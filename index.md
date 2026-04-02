@@ -3,7 +3,7 @@ Turning coffee into accepted submissions.
 
 ---
 
-##  Navigation (導航)
+##  Menu
 
 - [Problems](problems.md)
 - [contest](contest.md)
