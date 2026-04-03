@@ -1,4 +1,5 @@
-#  Competitive Programming Hub
+#  Competitive Programming Note
+
 Turning coffee into accepted submissions.
 
 ---
