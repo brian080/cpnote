@@ -8,7 +8,7 @@ Turning coffee into accepted submissions.
 * 普台高中 17 屆
 * APCS 4/3
 * IOIC 2026 學員
-* 全家霜淇淋好吃
+* 全家霜淇淋好吃 🍧
 ---
 
 ##  Menu
