@@ -26,3 +26,13 @@ Turning coffee into accepted submissions.
 > Greedy when possible, DP when necessary, brute force when desperate.
 > 
 > I promise it works on my machine.
+
+---
+
+```
+  ____   ____        _   _    ___    _____   _____ 
+ / ___| |  _ \      | \ | |  / _ \  |_   _| | ____|
+| |     | |_) |     |  \| | | | | |   | |   |  _|  
+| |___  |  __/      | |\  | | |_| |   | |   | |___ 
+ \____| |_|         |_| \_|  \___/    |_|   |_____|
+```
