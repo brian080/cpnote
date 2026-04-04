@@ -1,9 +1,5 @@
-` / ___| |  _ \      | \ | |  / _ \  |_   _| | ____|`
+# CP NOTE
 
-`| |     | |_) |     |  \| | | | | |   | |   |  _|  `
+陳森凱
 
-`| |___  |  __/      | |\  | | |_| |   | |   | |___ `
-
-` \____| |_|         |_| \_|  \___/    |_|   |_____|`
-
-Turning coffee into accepted submissions.
+> Turning coffee into accepted submissions.
