@@ -1,4 +1,4 @@
-[APCS](https://github.com/brian080/cpnote/blob/main/APCS.md)
+[APCS](https://brian080.github.io/cpnote/APCS.html)
 
 [CESE interactive Problem](https://github.com/brian080/cpnote/wiki/CSES-Interactive-Problems)
 
