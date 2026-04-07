@@ -14,8 +14,8 @@ Turning coffee into accepted submissions.
 ##  Menu
 
 - [Problems](problems.md)
-- [contest](youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be)
-- [other (no CP)](youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be)
+- [contest](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [other (no CP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
