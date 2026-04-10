@@ -15,7 +15,9 @@ Turning coffee into accepted submissions.
 
 - [Problems](problems.md)
 - [contest](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [note](note.md)
 - [other](other.md)
+
 
 ---
 
