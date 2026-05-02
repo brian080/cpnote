@@ -16,6 +16,9 @@ Turning coffee into accepted submissions.
 * 曾被 暴力又被 TLE 說我很得
 * 曾在 IOIC 的隨機課 slido 上亂留言
 * 曾吃過很多很多全家霜淇淋
+* 曾在宿舍考櫛瓜被記大過
+* 曾划手機時沒拿穩掉到臉上
+* 曾一個晚上吃 6 隻曠世奇派
   
 ---
 
